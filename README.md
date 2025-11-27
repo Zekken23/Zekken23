@@ -71,10 +71,3 @@ As an aspiring Software Engineer based at Muhammadiyah University Malang, I brid
 
 </div>
 
-### 🎨 Random Dev Quote
-<br/>
-<div align="center">
-  <a href="https://github.com/readme-jokes/readme-jokes">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&background=00000000&center=true&vCenter=true&width=435&lines=Programming+is+thinking,+not+typing.;Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;Simplicity+is+the+soul+of+efficiency." alt="Typing SVG" />
-  </a>
-</div>
