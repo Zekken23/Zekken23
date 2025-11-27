@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Muhammad Yusron Al Ghoni Rizqullah]
 
 ### 🚀 About Me
 I'm an **IT Engineer** and student at **Muhammadiyah University Malang**, passionate about bridging the gap between intelligent algorithms and beautiful user interfaces. My work focuses on **Machine Learning**, **UI/UX Design**, and full-stack **Mobile & Web Development**.
