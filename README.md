@@ -1,9 +1,7 @@
-# Hi there 👋, I'm [Muhammad Yusron Al Ghoni Rizqullah]
+# Hi there 👋, I'm Muhammad Yusron Al Ghoni Rizqullah
 
 ### 🚀 About Me
-I'm an **IT Engineer** and student at **Muhammadiyah University Malang**, passionate about bridging the gap between intelligent algorithms and beautiful user interfaces. My work focuses on **Machine Learning**, **UI/UX Design**, and full-stack **Mobile & Web Development**.
-
-I thrive in leadership roles where I can guide projects from concept to deployment. I enjoy exploring how intelligent systems can be embedded into real-world applications, blending mobile experiences with adaptive AI models.
+As an aspiring Software Engineer based at Muhammadiyah University Malang, I bridge the gap between complex data systems and elegant design. I possess a strong foundation in Machine Learning, UI/UX, and Cross-Platform Development. Beyond technical execution, I excel in Project Management and Team Leadership. I am passionate about orchestrating the full software development lifecycle (SDLC)—guiding teams to build scalable solutions that leverage intelligent algorithms to solve practical business problems.
 
 **I'm currently focused on:**
 
