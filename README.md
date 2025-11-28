@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Yusron Al Ghoni Rizqullah
+# Sugeng Rawuh - hello.
 
 ### 🚀 About Me
 As an aspiring Software Engineer based at Muhammadiyah University Malang, I bridge the gap between complex data systems and elegant design. I possess a strong foundation in Machine Learning, UI/UX, and Cross-Platform Development. Beyond technical execution, I excel in Project Management and Team Leadership. I am passionate about orchestrating the full software development lifecycle (SDLC)—guiding teams to build scalable solutions that leverage intelligent algorithms to solve practical business problems.
